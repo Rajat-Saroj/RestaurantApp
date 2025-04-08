@@ -7,13 +7,13 @@ export const LOGO_URL =
 export const MENU_URL =
   "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.6958531&lng=77.0805496&restaurantId=";
 
-export const AVATAR = "https://avatars.githubusercontent.com/u/175679849?v=4";
 
-export const GITHUB = "https://github.com/Ayush-0312/Foodie";
 
-export const LINKEDIN = "https://www.linkedin.com/in/ayush-gupta-41484b234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app";
+export const GITHUB = "https://github.com/Rajat-Saroj/RestaurantApp";
 
-export const PORTFOLIO = "https://portfolio-ayush-gupta.vercel.app/";
+export const LINKEDIN = "https://www.linkedin.com/in/rajat-saroj-5829b6315/";
+
+
 
 export const GROCERY =
   "https://cdn-icons-png.flaticon.com/512/7592/7592261.png";

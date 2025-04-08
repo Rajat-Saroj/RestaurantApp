@@ -1,4 +1,4 @@
-# React Foodie
+# React BiteBuddy
 
 # Parcel
 
